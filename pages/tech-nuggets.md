@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
-category: sample
-permalink: /sample-posts
+title: Tech Nuggets
+category: tech nuggets
+permalink: /tech-nuggets
 ---

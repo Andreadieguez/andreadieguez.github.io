@@ -1,6 +1,6 @@
 ---
 layout: category
-title: daw
-category: daw
-permalink: /daw
+title: Graphic Design
+category: graphic design
+permalink: /graphic-design
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
-category: resources
-permalink: /resources
+title: Projects
+category: projects
+permalink: /projects
 ---
