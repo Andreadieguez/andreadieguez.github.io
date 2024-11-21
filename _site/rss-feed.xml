@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>andreadieguez_personal</title>
+		<description>web_personal</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Welcome to Millennial!</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/welcome-to-millennial</link>
+				<guid isPermaLink="true">http://localhost:4000/welcome-to-millennial</guid>
+			</item>
+		
+			<item>
+				<title>Getting Started</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;millennial&quot;&gt;Millennial&lt;/h1&gt;
+</description>
+				
+				<pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/getting-started</link>
+				<guid isPermaLink="true">http://localhost:4000/getting-started</guid>
+			</item>
+		
+			<item>
+				<title>Text Formatting</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
+</description>
+				
+				<pubDate>Fri, 09 Sep 2016 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/text-formatting</link>
+				<guid isPermaLink="true">http://localhost:4000/text-formatting</guid>
+			</item>
+		
+			<item>
+				<title>Learning Resources</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 05 May 2016 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/learning-resources</link>
+				<guid isPermaLink="true">http://localhost:4000/learning-resources</guid>
+			</item>
+		
+			<item>
+				<title>About the Author</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;p&gt;Hi there! I’m Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out &lt;a href=&quot;https://www.lenpaul.com/&quot;&gt;my personal website&lt;/a&gt; for more information on my other projects (including more Jekyll themes!), as well as some of my writing.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 04 Apr 2016 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/about-the-author</link>
+				<guid isPermaLink="true">http://localhost:4000/about-the-author</guid>
+			</item>
+		
+	</channel>
+</rss>
